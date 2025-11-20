@@ -135,8 +135,7 @@ endmodule
 ```
 ### Simulation Output for ROM
 
-
-
+<img width="1920" height="1080" alt="Screenshot (457)" src="https://github.com/user-attachments/assets/e03ccce8-0c5e-456d-b98b-f01c5f8f6742" />
 
 ### 3. FIFO Memory Module
 ```
@@ -244,6 +243,7 @@ endmodule
 ```
 ### Simulation Output for FIFO
 
+<img width="1920" height="1080" alt="Screenshot (458)" src="https://github.com/user-attachments/assets/dd005db2-3d84-49fb-ab2b-b7ffcfeb668c" />
 
 
 ### Result
